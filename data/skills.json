@@ -1,0 +1,34 @@
+{
+  "title": "Professional Skillset",
+  "subtitle": "My Skills",
+  "toolsTitle": "Tools I Use",
+  "toolsSubtitle": "My Abilities",
+  "techSkills": [
+    { "name": "Python", "icon": "Code" },
+    { "name": "C/C++", "icon": "Terminal" },
+    { "name": "HTML5", "icon": "Globe" },
+    { "name": "CSS3", "icon": "Globe" },
+    { "name": "Pandas", "icon": "Database" },
+    { "name": "NumPy", "icon": "Cpu" },
+    { "name": "Scikit-learn", "icon": "BarChart" },
+    { "name": "Git", "icon": "FileCode" },
+    { "name": "Jupyter", "icon": "Terminal" },
+    { "name": "MATPLOTLIB", "icon": "chart-area" },
+    { "name": "VS Code", "icon": "Code" }
+  ],
+  "tools": [
+    "Data Analysis",
+    "Machine Learning",
+    "Statistical Modeling",
+    "Data Cleaning",
+    "Regression Analysis",
+    "Classification",
+    "Time Series Analysis",
+    "Web Scraping",
+    "Problem Solving",
+    "Model Evaluation",
+    "Supervised Learning",
+    "Data Visualization",
+    "Leaning Algorithms"
+  ]
+}

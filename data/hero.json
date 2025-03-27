@@ -1,0 +1,9 @@
+{
+  "greeting": "Hi There!",
+  "name": "Amul Poudel",
+  "roles": ["Computer Science Student", "Machine Learning Enthusiast", "Data Science Researcher", "Python Developer"],
+  "resumeButton": "View Resume",
+  "contactButton": "Contact Me",
+  "resumeLink": "https://amul-byte.github.io/resume/"
+}
+

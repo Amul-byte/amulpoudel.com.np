@@ -1,0 +1,27 @@
+{
+  "title": "Research Interests",
+  "subtitle": "Academic Aspirations",
+  "description": "Areas of interest that I am passionate about.",
+  "interests": [
+    {
+      "title": "Machine Learning",
+      "description": "Exploring advanced ML algorithms and their applications in solving complex real-world problems. Particularly interested in supervised and unsupervised learning techniques.",
+      "icon": "Brain"
+    },
+    {
+      "title": "Natural Language Processing",
+      "description": "Investigating how machines can understand, interpret, and generate human language. Interested in sentiment analysis, text classification, and language generation.",
+      "icon": "Lightbulb"
+    },
+    {
+      "title": "Computer Vision",
+      "description": "Studying how computers can gain high-level understanding from digital images and videos. Fascinated by object detection, image segmentation, and visual recognition systems.",
+      "icon": "Microscope"
+    },
+    {
+      "title": "Deep Learning",
+      "description": "Researching neural network architectures and their applications. Keen to explore transformers, CNNs, RNNs, and their implementations for various domains.",
+      "icon": "Network"
+    }
+  ]
+}

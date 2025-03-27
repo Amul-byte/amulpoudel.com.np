@@ -1,0 +1,37 @@
+{
+  "title": "Contact Me",
+  "subtitle": "Get In Touch",
+  "description": "Let's connect and discuss opportunities",
+  "contactInfo": [
+    {
+      "title": "Email",
+      "value": "pramulchettri@gmail.com",
+      "link": "mailto:pramulchettri@gmail.com",
+      "icon": "Mail"
+    },
+    {
+      "title": "Phone",
+      "value": "+1 737 335 9440",
+      "link": "tel:+17373359440",
+      "icon": "Phone"
+    },
+    {
+      "title": "Location",
+      "value": "San Marcos, Texas, United States",
+      "link": null,
+      "icon": "MapPin"
+    }
+  ],
+  "socialLinks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Amul-byte",
+      "icon": "Github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/amulpoudel",
+      "icon": "Linkedin"
+    }
+  ]
+}

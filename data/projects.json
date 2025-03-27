@@ -1,0 +1,69 @@
+{
+  "title": "Projects",
+  "subtitle": "My Recent Work",
+  "description": "Showcasing my technical skills in machine learning, data analysis, and software development",
+  "projects": [
+    {
+      "title": "Titanic Survival Prediction",
+      "description": "Developed a logistic regression model to predict passenger survival on the Titanic.",
+      "detailedDescription": "Implemented logistic regression with feature engineering, focusing on passenger class, gender, age, and family size as key predictors.",
+      "technologies": ["Python", "Logistic Regression", "Data Analysis", "Feature Engineering"],
+      "githubLink": "https://github.com/Amul-byte/TitanicDataLogisticRegression",
+      "demoLink": "https://amul-byte.github.io/TitanicDataLogisticRegression/",
+      "image": "/titanicdata.png"
+    },
+    {
+      "title": "Student Performance Prediction",
+      "description": "Built a machine learning model to predict student academic performance based on various factors.",
+      "detailedDescription": "Developed multiple classification models (Random Forest, SVM, and Gradient Boosting) to predict performance levels.",
+      "technologies": ["Python", "Machine Learning", "Classification", "Data Visualization"],
+      "githubLink": "https://github.com/Amul-byte/StudentPerformancePrediction",
+      "demoLink": "https://amul-byte.github.io/StudentPerformancePrediction/",
+      "image": "/studentperformance.png"
+    },
+    {
+      "title": "Sea Level Predictor",
+      "description": "Created a linear regression model to predict future sea level rise based on historical data.",
+      "detailedDescription": "Applied linear regression on historical sea level data from 1880-2013 to forecast future trends.",
+      "technologies": ["Python", "Linear Regression", "Time Series", "Data Visualization"],
+      "githubLink": "https://github.com/Amul-byte/sea-level-predictor-using-pyhton-libraries",
+      "demoLink": null,
+      "image": "/sealevel.png"
+    },
+    {
+      "title": "Time Series Visualizer",
+      "description": "Visualized time series data of daily page views with three types of plots: line plot, bar plot, and box plot.",
+      "detailedDescription": "Created interactive visualizations to analyze patterns and trends in time series data for better insights.",
+      "technologies": ["Python", "Pandas", "Data Visualization", "Time Series"],
+      "githubLink": "https://github.com/Amul-byte/time-series-visualizer",
+      "demoLink": null,
+      "image": "/timeseries.png"
+    },
+    {
+      "title": "Medical Data Visualizer",
+      "description": "Visualized medical data using bar plots and heatmaps, sourced from a CSV file with various medical attributes.",
+      "detailedDescription": "Analyzed medical examination data to explore relationships between cardiac disease, body measurements, blood markers, and lifestyle choices.",
+      "technologies": ["Python", "Data Visualization", "Seaborn", "Matplotlib"],
+      "githubLink": "https://github.com/Amul-byte/Medical-Data-Visualizer.freecodecamp",
+      "demoLink": null,
+      "image": "/medicaldata.png"
+    },
+    {
+      "title": "Experano – Localized AI Recommendation System",
+      "description": "Implemented an AI-powered recommendation system using LLaMA to generate context-aware suggestions based on user location and preferences.",
+      "detailedDescription": "Contributed to a web-based project that delivers smart, localized recommendations using a fine-tuned LLaMA model. Focused on integrating AI inference to personalize user experiences, enhance relevance, and dynamically adapt to user input. Ensured smooth model integration and optimized performance for real-time use.",
+      "technologies": [
+        "LLaMA",
+        "Next.js",
+        "Tailwind CSS",
+        "TypeScript",
+        "Convex",
+        "Clerk",
+        "Shadcn/UI"
+      ],
+      "githubLink": "https://github.com/Amul-byte/experano",
+      "demoLink": "https://experano.vercel.app/",
+      "image": "/experano.png"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "About Me",
+  "subtitle": "Who I Am",
+  "name": "Amul Poudel",
+  "description": [
+    "As a Computer Science major at Texas State University, I'm deeply interested in artificial intelligence, data science, and machine learning. I focus on developing my skills in Python programming and data analysis techniques to build predictive models and visualization tools.",
+    "I'm particularly fascinated by data analysis, machine learning, and AI applications. I enjoy working with statistical models and developing predictive algorithms that can extract meaningful insights from complex datasets to solve real-world problems."
+  ],
+  "details": [
+    {
+      "label": "Name",
+      "value": "Amul Poudel"
+    },
+    {
+      "label": "Email",
+      "value": "pramulchettri@gmail.com"
+    },
+    {
+      "label": "Location",
+      "value": "San Marcos, Texas"
+    },
+    {
+      "label": "Study",
+      "value": "Texas State University"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Certifications",
+  "subtitle": "Professional Development",
+  "description": "Continuous learning and skill development",
+  "certifications": [
+    {
+      "title": "Supervised Machine Learning: Regression and Classification",
+      "issuer": "Coursera - DeepLearning.AI and Stanford University",
+      "date": "2023",
+      "skills": ["Linear Regression", "Logistic Regression", "Gradient Descent", "Regularization"],
+      "link": "#",
+      "logo": "/placeholder.svg?height=60&width=60"
+    },
+    {
+      "title": "Advanced Learning Algorithms",
+      "issuer": "Coursera - DeepLearning.AI and Stanford University",
+      "date": "2023",
+      "skills": ["Neural Networks", "Decision Trees", "Ensemble Methods"],
+      "link": "#",
+      "logo": "/placeholder.svg?height=60&width=60"
+    },
+    {
+      "title": "Data Analysis with Python",
+      "issuer": "freeCodeCamp",
+      "date": "2023",
+      "skills": ["Pandas", "NumPy", "Data Cleaning", "Data Visualization"],
+      "link": "#",
+      "logo": "/placeholder.svg?height=60&width=60"
+    },
+    {
+      "title": "Prompt Engineering for ChatGPT",
+      "issuer": "Linkdin Learning",
+      "date": "2023",
+      "skills": ["Prompt Design", "AI Interaction", "Content Generation"],
+      "link": "#",
+      "logo": "/placeholder.svg?height=60&width=60"
+    }
+  ]
+}

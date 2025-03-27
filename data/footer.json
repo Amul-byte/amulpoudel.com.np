@@ -1,0 +1,21 @@
+{
+  "copyright": "© 2024 Amul Poudel. All rights reserved.",
+  "tagline": "Made with ❤️ using Next.js & Tailwind CSS",
+  "socialLinks": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/amulpoudel",
+      "icon": "Linkedin"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Amul-byte",
+      "icon": "Github"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:pramulchettri@gmail.com",
+      "icon": "Mail"
+    }
+  ]
+}
