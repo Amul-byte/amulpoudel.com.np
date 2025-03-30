@@ -5,7 +5,7 @@
   "certifications": [
     {
       "title": "Supervised Machine Learning: Regression and Classification",
-      "issuer": "Coursera - DeepLearning.AI and Stanford University",
+      "issuer": "Coursera - DeepLearning.AI",
       "date": "2023",
       "skills": ["Linear Regression", "Logistic Regression", "Gradient Descent", "Regularization"],
       "link": "https://www.coursera.org/account/accomplishments/verify/01URBNLY9EXU",
@@ -13,10 +13,10 @@
     },
     {
       "title": "Advanced Learning Algorithms",
-      "issuer": "Coursera - DeepLearning.AI and Stanford University",
+      "issuer": "Coursera - DeepLearning.AI",
       "date": "2023",
       "skills": ["Neural Networks", "Decision Trees", "Ensemble Methods"],
-      "link": "#",
+      "link": "https://www.coursera.org/account/accomplishments/verify/U5ZLBUQ18UTR",
       "logo": "/placeholder.svg?height=60&width=60"
     },
     {
