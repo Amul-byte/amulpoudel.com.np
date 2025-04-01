@@ -4,22 +4,6 @@
   "description": "Continuous learning and skill development",
   "certifications": [
     {
-      "title": "Supervised Machine Learning: Regression and Classification",
-      "issuer": "Coursera - DeepLearning.AI",
-      "date": "2023",
-      "skills": ["Linear Regression", "Logistic Regression", "Gradient Descent", "Regularization"],
-      "link": "https://www.coursera.org/account/accomplishments/verify/01URBNLY9EXU",
-      "logo": "/placeholder.svg?height=60&width=60"
-    },
-    {
-      "title": "Advanced Learning Algorithms",
-      "issuer": "Coursera - DeepLearning.AI",
-      "date": "2023",
-      "skills": ["Neural Networks", "Decision Trees", "Ensemble Methods"],
-      "link": "https://www.coursera.org/account/accomplishments/verify/U5ZLBUQ18UTR",
-      "logo": "/placeholder.svg?height=60&width=60"
-    },
-    {
     "title": "Machine Learning Specialization",
     "issuer": "Coursera - DeepLearning.AI & Stanford University",
     "date": "2025",
@@ -30,19 +14,16 @@
       "Logistic Regression",
       "Linear Regression",
       "Decision Trees",
-      "Ensemble Methods",
       "Clustering",
       "Anomaly Detection",
       "Recommender Systems",
-      "Deep Learning",
       "Reinforcement Learning",
       "Model Evaluation",
       "Python Programming",
       "NumPy",
       "scikit-learn",
-      "TensorFlow"
       ],
-      "link": "https://www.coursera.org/specializations/machine-learning-introduction",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/ZY6OPL7UVRHO",
       "logo": "/placeholder.svg?height=60&width=60"
     },
 
