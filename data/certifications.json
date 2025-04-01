@@ -20,6 +20,33 @@
       "logo": "/placeholder.svg?height=60&width=60"
     },
     {
+    "title": "Machine Learning Specialization",
+    "issuer": "Coursera - DeepLearning.AI & Stanford University",
+    "date": "2025",
+    "skills": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Neural Networks",
+      "Logistic Regression",
+      "Linear Regression",
+      "Decision Trees",
+      "Ensemble Methods",
+      "Clustering",
+      "Anomaly Detection",
+      "Recommender Systems",
+      "Deep Learning",
+      "Reinforcement Learning",
+      "Model Evaluation",
+      "Python Programming",
+      "NumPy",
+      "scikit-learn",
+      "TensorFlow"
+      ],
+      "link": "https://www.coursera.org/specializations/machine-learning-introduction",
+      "logo": "/placeholder.svg?height=60&width=60"
+    },
+
+    {
       "title": "Data Analysis with Python",
       "issuer": "freeCodeCamp",
       "date": "2023",
