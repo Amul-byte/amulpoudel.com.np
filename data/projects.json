@@ -40,13 +40,13 @@
       "image": "/timeseries.png"
     },
     {
-      "title": "Medical Data Visualizer",
-      "description": "Visualized medical data using bar plots and heatmaps, sourced from a CSV file with various medical attributes.",
-      "detailedDescription": "Analyzed medical examination data to explore relationships between cardiac disease, body measurements, blood markers, and lifestyle choices.",
-      "technologies": ["Python", "Data Visualization", "Seaborn", "Matplotlib"],
-      "githubLink": "https://github.com/Amul-byte/Medical-Data-Visualizer.freecodecamp",
-      "demoLink": null,
-      "image": "/medicaldata.png"
+      "title": "Hand Sign Detection",
+      "description": "Built a real-time hand gesture recognition system to identify ASL signs using a webcam.",
+      "detailedDescription": "Used OpenCV and TensorFlow to detect and classify American Sign Language hand gestures in real-time. Deployed as a web app using Streamlit, Docker, and GitHub CI/CD. Hosted on a custom Streamlit Cloud domain for easy access and interaction.",
+      "technologies": ["Python", "OpenCV", "TensorFlow", "Streamlit", "Docker", "GitHub Actions"],
+      "githubLink": "https://github.com/Amul-byte/HandSignDetection",
+      "demoLink": "https://amulpoudel.streamlit.app",
+      "image": "/HandSignDetection.jpg"
     },
     {
       "title": "Experano – Localized AI Recommendation System",
