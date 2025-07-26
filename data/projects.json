@@ -4,6 +4,32 @@
   "description": "Showcasing my technical skills in machine learning, data analysis, and software development",
   "projects": [
     {
+      "title": "Hand Sign Detection",
+      "description": "Built a real-time hand gesture recognition system to identify ASL signs using a webcam.",
+      "detailedDescription": "Used OpenCV and TensorFlow to detect and classify American Sign Language hand gestures in real-time. Deployed as a web app using Streamlit, Docker, and GitHub CI/CD. Hosted on a custom Streamlit Cloud domain for easy access and interaction.",
+      "technologies": ["Python", "OpenCV", "TensorFlow", "Streamlit", "Docker", "GitHub Actions"],
+      "githubLink": "https://github.com/Amul-byte/HandSignDetection",
+      "demoLink": "https://amulpoudel.streamlit.app",
+      "image": "/handsign.png"
+    },
+    {
+      "title": "ResQMe – AI-Powered Emergency Response Platform",
+      "description": "Developed an intelligent platform that streamlines emergency response coordination and resource dispatching.",
+      "detailedDescription": "ResQMe is a real-time AI-powered emergency response system designed to detect distress situations, notify local authorities, and intelligently allocate nearby resources. The platform includes victim-side alerts, responder dashboards, and an admin panel, all powered by location-aware logic and cloud-based infrastructure. Built during RiverHacks 2025 and awarded for excellence in community impact and innovation.",
+      "technologies": [
+        "Next.js",
+        "Tailwind CSS",
+        "Clerk",
+        "Convex",
+        "Mapbox",
+        "AI Detection Logic"
+      ],
+      "githubLink": "https://github.com/gauravfs-14/ResQMe",
+      "demoLink": "https://res-q-me.vercel.app/",
+      "image": "/resqme.png"
+    },
+
+    {
       "title": "Titanic Survival Prediction",
       "description": "Developed a logistic regression model to predict passenger survival on the Titanic.",
       "detailedDescription": "Implemented logistic regression with feature engineering, focusing on passenger class, gender, age, and family size as key predictors.",
@@ -11,42 +37,6 @@
       "githubLink": "https://github.com/Amul-byte/TitanicDataLogisticRegression",
       "demoLink": "https://amul-byte.github.io/TitanicDataLogisticRegression/",
       "image": "/titanicdata.png"
-    },
-    {
-      "title": "Student Performance Prediction",
-      "description": "Built a machine learning model to predict student academic performance based on various factors.",
-      "detailedDescription": "Developed multiple classification models (Random Forest, SVM, and Gradient Boosting) to predict performance levels.",
-      "technologies": ["Python", "Machine Learning", "Classification", "Data Visualization"],
-      "githubLink": "https://github.com/Amul-byte/StudentPerformancePrediction",
-      "demoLink": "https://amul-byte.github.io/StudentPerformancePrediction/",
-      "image": "/studentperformance.png"
-    },
-    {
-      "title": "Sea Level Predictor",
-      "description": "Created a linear regression model to predict future sea level rise based on historical data.",
-      "detailedDescription": "Applied linear regression on historical sea level data from 1880-2013 to forecast future trends.",
-      "technologies": ["Python", "Linear Regression", "Time Series", "Data Visualization"],
-      "githubLink": "https://github.com/Amul-byte/sea-level-predictor-using-pyhton-libraries",
-      "demoLink": null,
-      "image": "/sealevel.png"
-    },
-    {
-      "title": "Time Series Visualizer",
-      "description": "Visualized time series data of daily page views with three types of plots: line plot, bar plot, and box plot.",
-      "detailedDescription": "Created interactive visualizations to analyze patterns and trends in time series data for better insights.",
-      "technologies": ["Python", "Pandas", "Data Visualization", "Time Series"],
-      "githubLink": "https://github.com/Amul-byte/time-series-visualizer",
-      "demoLink": null,
-      "image": "/timeseries.png"
-    },
-    {
-      "title": "Hand Sign Detection",
-      "description": "Built a real-time hand gesture recognition system to identify ASL signs using a webcam.",
-      "detailedDescription": "Used OpenCV and TensorFlow to detect and classify American Sign Language hand gestures in real-time. Deployed as a web app using Streamlit, Docker, and GitHub CI/CD. Hosted on a custom Streamlit Cloud domain for easy access and interaction.",
-      "technologies": ["Python", "OpenCV", "TensorFlow", "Streamlit", "Docker", "GitHub Actions"],
-      "githubLink": "https://github.com/Amul-byte/HandSignDetection",
-      "demoLink": "https://amulpoudel.streamlit.app",
-      "image": "/HandSignDetection.jpg"
     },
     {
       "title": "Experano – Localized AI Recommendation System",
@@ -64,6 +54,33 @@
       "githubLink": "https://github.com/Amul-byte/experano",
       "demoLink": "https://experano.vercel.app/",
       "image": "/experano.png"
+    },
+    {
+      "title": "Sea Level Predictor",
+      "description": "Created a linear regression model to predict future sea level rise based on historical data.",
+      "detailedDescription": "Applied linear regression on historical sea level data from 1880-2013 to forecast future trends.",
+      "technologies": ["Python", "Linear Regression", "Time Series", "Data Visualization"],
+      "githubLink": "https://github.com/Amul-byte/sea-level-predictor-using-pyhton-libraries",
+      "demoLink": null,
+      "image": "/sealevel.png"
+    },
+    {
+      "title": "Student Performance Prediction",
+      "description": "Built a machine learning model to predict student academic performance based on various factors.",
+      "detailedDescription": "Developed multiple classification models (Random Forest, SVM, and Gradient Boosting) to predict performance levels.",
+      "technologies": ["Python", "Machine Learning", "Classification", "Data Visualization"],
+      "githubLink": "https://github.com/Amul-byte/StudentPerformancePrediction",
+      "demoLink": "https://amul-byte.github.io/StudentPerformancePrediction/",
+      "image": "/studentperformance.png"
+    },
+    {
+      "title": "Time Series Visualizer",
+      "description": "Visualized time series data of daily page views with three types of plots: line plot, bar plot, and box plot.",
+      "detailedDescription": "Created interactive visualizations to analyze patterns and trends in time series data for better insights.",
+      "technologies": ["Python", "Pandas", "Data Visualization", "Time Series"],
+      "githubLink": "https://github.com/Amul-byte/time-series-visualizer",
+      "demoLink": null,
+      "image": "/timeseries.png"
     }
   ]
 }
