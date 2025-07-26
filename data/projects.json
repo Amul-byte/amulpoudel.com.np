@@ -36,7 +36,7 @@
       "technologies": ["Python", "Logistic Regression", "Data Analysis", "Feature Engineering"],
       "githubLink": "https://github.com/Amul-byte/TitanicDataLogisticRegression",
       "demoLink": "https://amul-byte.github.io/TitanicDataLogisticRegression/",
-      "image": "/titanicdata.png"
+      "image": "/titanic.png"
     },
     {
       "title": "Experano – Localized AI Recommendation System",
