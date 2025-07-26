@@ -10,7 +10,7 @@
       "technologies": ["Python", "OpenCV", "TensorFlow", "Streamlit", "Docker", "GitHub Actions"],
       "githubLink": "https://github.com/Amul-byte/HandSignDetection",
       "demoLink": "https://amulpoudel.streamlit.app",
-      "image": "/handsign.png"
+      "image": "/handsigndetection.png"
     },
     {
       "title": "ResQMe – AI-Powered Emergency Response Platform",
