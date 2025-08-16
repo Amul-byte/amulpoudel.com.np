@@ -30,13 +30,13 @@
     },
 
     {
-      "title": "Titanic Survival Prediction",
-      "description": "Developed a logistic regression model to predict passenger survival on the Titanic.",
-      "detailedDescription": "Implemented logistic regression with feature engineering, focusing on passenger class, gender, age, and family size as key predictors.",
-      "technologies": ["Python", "Logistic Regression", "Data Analysis", "Feature Engineering"],
-      "githubLink": "https://github.com/Amul-byte/TitanicDataLogisticRegression",
-      "demoLink": "https://amul-byte.github.io/TitanicDataLogisticRegression/",
-      "image": "/titanic.png"
+      "title": "Interactive Data Dashboard",
+      "description": "Built a dynamic dashboard for visualizing and analyzing census data with Streamlit.",
+      "detailedDescription": "Developed an interactive web application using Streamlit to explore and analyze census data through customizable charts, tables, and filters. Implemented real-time data manipulation with Pandas and integrated Plotly visualizations for clear insights. Deployed seamlessly on Streamlit Cloud for public access and linked with GitHub for continuous updates.",
+      "technologies": ["Python", "Pandas", "Streamlit", "Plotly", "GitHub"],
+      "githubLink": "https://github.com/Amul-byte/Dashboard",
+      "demoLink": "https://dashboard-census.streamlit.app/",
+      "image": "/dashboard.png"
     },
     {
       "title": "Experano – Localized AI Recommendation System",
