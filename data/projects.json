@@ -72,15 +72,6 @@
       "githubLink": "https://github.com/Amul-byte/StudentPerformancePrediction",
       "demoLink": "https://amul-byte.github.io/StudentPerformancePrediction/",
       "image": "/studentperformance.png"
-    },
-    {
-      "title": "Time Series Visualizer",
-      "description": "Visualized time series data of daily page views with three types of plots: line plot, bar plot, and box plot.",
-      "detailedDescription": "Created interactive visualizations to analyze patterns and trends in time series data for better insights.",
-      "technologies": ["Python", "Pandas", "Data Visualization", "Time Series"],
-      "githubLink": "https://github.com/Amul-byte/time-series-visualizer",
-      "demoLink": null,
-      "image": "/timeseries.png"
     }
   ]
 }
