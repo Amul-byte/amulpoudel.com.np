@@ -35,7 +35,7 @@
       "detailedDescription": "Developed an interactive web application using Streamlit to explore and analyze census data through customizable charts, tables, and filters. Implemented real-time data manipulation with Pandas and integrated Plotly visualizations for clear insights. Deployed seamlessly on Streamlit Cloud for public access and linked with GitHub for continuous updates.",
       "technologies": ["Python", "Pandas", "Streamlit", "Plotly", "GitHub"],
       "githubLink": "https://github.com/Amul-byte/Dashboard",
-      "demoLink": "https://dashboard-census.streamlit.app/",
+      "demoLink": "https://dashboard-7k9c.onrender.com/",
       "image": "/dashboard.png"
     },
     {
