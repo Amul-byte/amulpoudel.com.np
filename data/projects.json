@@ -4,14 +4,15 @@
   "description": "Showcasing my technical skills in machine learning, data analysis, and software development",
   "projects": [
     {
-      "title": "Hand Sign Detection",
-      "description": "Built a real-time hand gesture recognition system to identify ASL signs using a webcam.",
-      "detailedDescription": "Used OpenCV and TensorFlow to detect and classify American Sign Language hand gestures in real-time. Deployed as a web app using Streamlit, Docker, and GitHub CI/CD. Hosted on a custom Streamlit Cloud domain for easy access and interaction.",
-      "technologies": ["Python", "OpenCV", "TensorFlow", "Streamlit", "Docker", "GitHub Actions"],
-      "githubLink": "https://github.com/Amul-byte/HandSignDetection",
-      "demoLink": "https://amulpoudel.streamlit.app",
-      "image": "/handsigndetection.png"
+      "title": "Real Estate Analytics – Gurgaon, India",
+      "description": "Interactive data app to explore Gurgaon housing markets with maps, charts, and ML-powered insights.",
+      "detailedDescription": "Built an end-to-end Streamlit dashboard to analyze residential listings in Gurgaon. The app features an interactive map of properties, BHK price distribution, composition breakdowns, and an Area-vs-Price scatter. It also includes a price-estimation workflow and a content-based recommender using cosine similarity of engineered features to find similar apartments. Visuals are rendered with Plotly; data processing uses Pandas/NumPy with cached pipelines for speed.",
+      "technologies": ["Python", "Streamlit", "Plotly", "Pandas", "NumPy", "scikit-learn", "Folium/Leaflet"],
+      "githubLink": "https://github.com/Amul-byte/realestate_analytics",
+      "demoLink": "https://restate.amulpoudel.com.np/analysis_app",
+      "image": "/real_state.png"
     },
+
     {
       "title": "ResQMe – AI-Powered Emergency Response Platform",
       "description": "Developed an intelligent platform that streamlines emergency response coordination and resource dispatching.",
@@ -27,6 +28,16 @@
       "githubLink": "https://github.com/gauravfs-14/ResQMe",
       "demoLink": "https://res-q-me.vercel.app/",
       "image": "/resqme.png"
+    },
+    {
+
+      "title": "Hand Sign Detection",
+      "description": "Built a real-time hand gesture recognition system to identify ASL signs using a webcam.",
+      "detailedDescription": "Used OpenCV and TensorFlow to detect and classify American Sign Language hand gestures in real-time. Deployed as a web app using Streamlit, Docker, and GitHub CI/CD. Hosted on a custom Streamlit Cloud domain for easy access and interaction.",
+      "technologies": ["Python", "OpenCV", "TensorFlow", "Streamlit", "Docker", "GitHub Actions"],
+      "githubLink": "https://github.com/Amul-byte/HandSignDetection",
+      "demoLink": "https://amulpoudel.streamlit.app",
+      "image": "/handsigndetection.png"
     },
 
     {
@@ -54,15 +65,6 @@
       "githubLink": "https://github.com/Amul-byte/experano",
       "demoLink": "https://experano.vercel.app/",
       "image": "/experano.png"
-    },
-    {
-      "title": "Sea Level Predictor",
-      "description": "Created a linear regression model to predict future sea level rise based on historical data.",
-      "detailedDescription": "Applied linear regression on historical sea level data from 1880-2013 to forecast future trends.",
-      "technologies": ["Python", "Linear Regression", "Time Series", "Data Visualization"],
-      "githubLink": "https://github.com/Amul-byte/sea-level-predictor-using-pyhton-libraries",
-      "demoLink": null,
-      "image": "/sealevel.png"
     },
     {
       "title": "Student Performance Prediction",
