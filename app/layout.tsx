@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     images: [
       {
-        url: "/og-image.png",
+        url: "/favicon.ico",
         width: 1200,
         height: 630,
         alt: "Amul Poudel - Portfolio",
