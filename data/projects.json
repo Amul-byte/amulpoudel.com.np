@@ -9,7 +9,7 @@
       "detailedDescription": "Built an end-to-end Streamlit dashboard to analyze residential listings in Gurgaon. The app features an interactive map of properties, BHK price distribution, composition breakdowns, and an Area-vs-Price scatter. It also includes a price-estimation workflow and a content-based recommender using cosine similarity of engineered features to find similar apartments. Visuals are rendered with Plotly; data processing uses Pandas/NumPy with cached pipelines for speed.",
       "technologies": ["Python", "Streamlit", "Plotly", "Pandas", "NumPy", "scikit-learn", "Folium/Leaflet"],
       "githubLink": "https://github.com/Amul-byte/realestate_analytics",
-      "demoLink": "https://restate.amulpoudel.com.np/analysis_app",
+      "demoLink": "https://restate.amulpoudel.com.np",
       "image": "/real_state.png"
     },
 
